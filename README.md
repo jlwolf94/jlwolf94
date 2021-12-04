@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jlwolf94
+- 👋 Hi, I’m Jan-Lukas Wolf
 - 🌱 I’m currently learning ...
   - C and C++
   - Python
